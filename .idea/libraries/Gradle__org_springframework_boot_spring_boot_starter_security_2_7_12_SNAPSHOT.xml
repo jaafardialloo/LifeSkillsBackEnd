@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: org.springframework.boot:spring-boot-starter-security:2.7.12-SNAPSHOT" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="org.springframework.boot" artifactId="spring-boot-starter-security" version="2.7.12-SNAPSHOT" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-security/2.7.12-SNAPSHOT/226eac5b92933e742a3c0ce61ad7732f65c3dab4/spring-boot-starter-security-2.7.12-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-security/2.7.12-SNAPSHOT/5ba1d87c1301c1239b3eab55892de1164d1e7e19/spring-boot-starter-security-2.7.12-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
