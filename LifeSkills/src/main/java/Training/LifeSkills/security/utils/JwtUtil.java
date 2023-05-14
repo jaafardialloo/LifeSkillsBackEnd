@@ -24,7 +24,7 @@ public class JwtUtil {
       log.info("[createToken] start generating a new token");
       Algorithm algorithm = Algorithm.HMAC512(SECRET);
       String token = JWT.create()
-          .withIssuer("ibtikar")
+          .withIssuer("Testt")
           .withSubject(username)
           .withIssuedAt(Instant.now())
           .withNotBefore(Instant.now())
